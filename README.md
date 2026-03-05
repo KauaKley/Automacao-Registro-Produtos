@@ -4,7 +4,7 @@ Automação desenvolvida em Python para cadastrar produtos em massa em um sistem
 
 ## 📋 Sobre o Projeto
 
-O script lê uma planilha CSV com 293 produtos e cadastra cada um automaticamente no sistema, preenchendo todos os campos do formulário sem nenhuma intervenção humana.
+O script lê uma planilha CSV com 293 produtos e cadastra cada um automaticamente no sistema, preenchendo todos os campos do formulário sem nenhuma intervenção humana. Diminuindo o tempo de um trabalho de pelo menos 7 horas para apenas 25 minutos.
 
 ## ⚙️ Funcionalidades
 
